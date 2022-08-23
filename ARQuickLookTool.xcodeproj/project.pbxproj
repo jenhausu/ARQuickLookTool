@@ -11,6 +11,7 @@
 		65F11FCF2864C8B8002A6216 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F11FCE2864C8B8002A6216 /* ContentView.swift */; };
 		65F11FD12864C8B9002A6216 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F11FD02864C8B9002A6216 /* Assets.xcassets */; };
 		65F11FD42864C8B9002A6216 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F11FD32864C8B9002A6216 /* Preview Assets.xcassets */; };
+		65F11FDD2864CAF8002A6216 /* CreateModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F11FDC2864CAF8002A6216 /* CreateModelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		65F11FCE2864C8B8002A6216 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65F11FD02864C8B9002A6216 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65F11FD32864C8B9002A6216 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65F11FDC2864CAF8002A6216 /* CreateModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateModelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				65F11FCC2864C8B8002A6216 /* ARQuickLookToolApp.swift */,
 				65F11FCE2864C8B8002A6216 /* ContentView.swift */,
+				65F11FDC2864CAF8002A6216 /* CreateModelView.swift */,
 				65F11FD02864C8B9002A6216 /* Assets.xcassets */,
 				65F11FD22864C8B9002A6216 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65F11FCF2864C8B8002A6216 /* ContentView.swift in Sources */,
+				65F11FDD2864CAF8002A6216 /* CreateModelView.swift in Sources */,
 				65F11FCD2864C8B8002A6216 /* ARQuickLookToolApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
